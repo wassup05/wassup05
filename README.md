@@ -6,4 +6,4 @@ Hi there! I am Suprit, an undergraduate studying at BITS Pilani, additionally
 
 ---
 
-![Stats](https://gh-readme-stats-vercel-p6pk7qw74-suprit-s-jahagirdars-projects.vercel.app/api?username=wassup05&theme=tokyonight&rank_icon=github&show_icons=true&include_all_commits=true)
+![Stats](https://gh-readme-stats-vercel-31j87s8lj-suprit-s-jahagirdars-projects.vercel.app/api?username=wassup05&theme=tokyonight&rank_icon=github&show_icons=true&include_all_commits=true)
